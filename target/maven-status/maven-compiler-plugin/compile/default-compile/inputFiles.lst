@@ -1,34 +1,34 @@
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\Dto\NuevoUsuario.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\model\Persona.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\dto\DtoEducacion.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\model\Educacion.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\repository\REducacion.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\enums\RolNombre.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\MainSecurity.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\controller\CEducacion.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\model\Experiencia.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\entity\Rol.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\entity\UsuarioPrincipal.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\dto\DtoExperiencia.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\service\RolService.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\controller\CExperiencia.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\jwt\JwtEntryPoint.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\service\ImpPersonaService.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\service\SExperiencia.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\repository\RExperiencia.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\controller\PersonaController.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\Dto\LoginUsuario.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\entity\Usuario.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\repository\IPersonaRepository.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\repository\IUsuarioRepository.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\service\UsuarioService.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\PortfolioApplication.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\repository\IRolRepository.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\interfaces\IPersonaService.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\service\SEducacion.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\jwt\JwtTokenFilter.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\jwt\JwtProvider.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\controller\AuthController.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\controller\Mensaje.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\Dto\JwtDto.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy bkd\Deploy-backend\Portfolio\src\main\java\com\proyecto\demo\security\service\UserDetailsImpl.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\CExperiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\dto\DtoEducacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\entity\Rol.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\service\UsuarioService.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\repository\RExperiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\repository\IPersonaRepository.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\entity\Usuario.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\PersonaController.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Experiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtProvider.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\dto\DtoExperiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\repository\IRolRepository.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\enums\RolNombre.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\interfaces\IPersonaService.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Educacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\repository\IUsuarioRepository.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\service\RolService.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\PortfolioApplication.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\entity\UsuarioPrincipal.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\ImpPersonaService.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\Dto\LoginUsuario.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\CEducacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\MainSecurity.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\service\UserDetailsImpl.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\SEducacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\repository\REducacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\Dto\NuevoUsuario.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\SExperiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\Dto\JwtDto.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtEntryPoint.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtTokenFilter.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\controller\AuthController.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Persona.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\controller\Mensaje.java
