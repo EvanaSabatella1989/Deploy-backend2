@@ -8,10 +8,11 @@ D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\PersonaController.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Experiencia.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtProvider.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\dto\DtoPersona.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\dto\DtoExperiencia.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\repository\RHyS.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\repository\IRolRepository.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\enums\RolNombre.java
-D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\interfaces\IPersonaService.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Educacion.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\repository\IUsuarioRepository.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\service\RolService.java
@@ -20,6 +21,7 @@ D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\ImpPersonaService.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\Dto\LoginUsuario.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\CEducacion.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\controller\CHyS.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\MainSecurity.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\service\UserDetailsImpl.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\SEducacion.java
@@ -29,6 +31,9 @@ D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\Dto\JwtDto.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtEntryPoint.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\jwt\JwtTokenFilter.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\dto\DtoHyS.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\HyS.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\controller\AuthController.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\model\Persona.java
+D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\service\SHyS.java
 D:\Programacion\Escritorio\Argentina Programa\Yo Programo\Proyecto Final\Deploy-backend2\src\main\java\com\proyecto\demo\security\controller\Mensaje.java
