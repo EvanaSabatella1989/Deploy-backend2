@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.proyecto.demo.PortfolioApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.505 s - in com.proyecto.demo.PortfolioApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.759 s - in com.proyecto.demo.PortfolioApplicationTests
