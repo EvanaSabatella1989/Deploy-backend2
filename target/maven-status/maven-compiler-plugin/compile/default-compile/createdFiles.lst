@@ -1,5 +1,6 @@
 com\proyecto\demo\dto\DtoExperiencia.class
 com\proyecto\demo\repository\RHyS.class
+com\proyecto\demo\controller\CProyecto.class
 com\proyecto\demo\dto\DtoHyS.class
 com\proyecto\demo\repository\IPersonaRepository.class
 com\proyecto\demo\security\repository\IUsuarioRepository.class
@@ -8,15 +9,18 @@ com\proyecto\demo\security\jwt\JwtEntryPoint.class
 com\proyecto\demo\security\service\RolService.class
 com\proyecto\demo\security\enums\RolNombre.class
 com\proyecto\demo\security\entity\UsuarioPrincipal.class
+com\proyecto\demo\service\SProyecto.class
 com\proyecto\demo\security\Dto\JwtDto.class
 com\proyecto\demo\repository\REducacion.class
 com\proyecto\demo\model\Educacion.class
 com\proyecto\demo\controller\CExperiencia.class
 com\proyecto\demo\security\controller\AuthController.class
 com\proyecto\demo\service\SExperiencia.class
+com\proyecto\demo\repository\RProyecto.class
 com\proyecto\demo\security\repository\IRolRepository.class
 com\proyecto\demo\model\Persona.class
 com\proyecto\demo\security\Dto\NuevoUsuario.class
+com\proyecto\demo\model\Proyecto.class
 com\proyecto\demo\security\MainSecurity.class
 com\proyecto\demo\security\service\UsuarioService.class
 com\proyecto\demo\dto\DtoPersona.class
@@ -36,4 +40,5 @@ com\proyecto\demo\security\service\UserDetailsImpl.class
 com\proyecto\demo\security\controller\Mensaje.class
 com\proyecto\demo\security\entity\Usuario.class
 com\proyecto\demo\service\SEducacion.class
+com\proyecto\demo\dto\DtoProyecto.class
 com\proyecto\demo\PortfolioApplication.class
