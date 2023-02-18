@@ -12,15 +12,18 @@ public class DtoPersona {
     private String descripcion;
     @NotBlank 
     private String img;
+    @NotBlank 
+    private String ubicacion;
 
     public DtoPersona() {
     }
 
-    public DtoPersona(String nombre, String apellido, String descripcion, String img) {
+    public DtoPersona(String nombre, String apellido, String descripcion, String img, String ubicacion) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.descripcion = descripcion;
         this.img = img;
+        this.ubicacion = ubicacion;
     }
 
     public String getNombre() {
@@ -53,6 +56,14 @@ public class DtoPersona {
 
     public void setImg(String img) {
         this.img = img;
+    }
+
+    public String getUbicacion() {
+        return ubicacion;
+    }
+
+    public void setUbicacion(String ubicacion) {
+        this.ubicacion = ubicacion;
     }
     
     

@@ -63,6 +63,7 @@ public class PersonaController {
         persona.setApellido(dtopersona.getApellido());
         persona.setDescripcion((dtopersona.getDescripcion()));
         persona.setImg(dtopersona.getImg());
+        persona.setUbicacion(dtopersona.getUbicacion());
         
         personaService.save(persona);
         return new ResponseEntity(new Mensaje("Persona actualizada"), HttpStatus.OK);

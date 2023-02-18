@@ -25,15 +25,18 @@ public class Persona {
     private String descripcion;
      
     private String img;
+    
+    private String ubicacion;
 
     public Persona() {
     }
 
-    public Persona(String nombre, String apellido, String descripcion, String img) {
+    public Persona(String nombre, String apellido, String descripcion, String img,String ubicacion) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.descripcion = descripcion;
-        this.img = img;
+        this.img = img; 
+        this.ubicacion = ubicacion;
     }
 
     public int getId() {
@@ -76,10 +79,13 @@ public class Persona {
         this.img = img;
     }
 
-    
+    public String getUbicacion() {
+        return ubicacion;
+    }
 
-    
-    
-    
+    public void setUbicacion(String ubicacion) {
+        this.ubicacion = ubicacion;
+    }
+       
 }
 
