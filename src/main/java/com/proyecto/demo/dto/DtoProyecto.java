@@ -7,16 +7,16 @@ import javax.validation.constraints.NotBlank;
 public class DtoProyecto {
     @NotBlank
     private String nombre;
-    private String descripcion;
     private String img;
+    private String descripcion;
 
     public DtoProyecto() {
     }
 
-    public DtoProyecto(String nombre, String descripcion, String img) {
+    public DtoProyecto(String nombre, String img, String descripcion) {
         this.nombre = nombre;
-        this.descripcion = descripcion;
         this.img = img;
+        this.descripcion = descripcion;
     }
 
     public String getNombre() {
